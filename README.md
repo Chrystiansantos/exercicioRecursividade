@@ -1,4 +1,4 @@
-<h1>Lista de exercicios Recursividade com Node.js</h1>
+<h1>Lista de exercícios Recursividade com Node.js</h1>
 <ol>
         <li>Impressão de um número natural em base binária.</li>
         <li>Multiplicação de dois números naturais, através de somas sucessivas (Ex.: 6 * 4 = 4 + 4 + 4 + 4 + 4 + 4).
